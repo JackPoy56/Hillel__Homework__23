@@ -1,0 +1,37 @@
+[
+    {
+        "id": "1",
+        "avatar": "/images/1.jpg",
+        "name": "Jack",
+        "surname": "Korn",
+        "age": "23"
+    },
+    {
+        "id": "2",
+        "avatar": "/images/2.jpg",
+        "name": "Jon",
+        "surname": "Lanon",
+        "age": "25"
+    },
+     {
+        "id": "3",
+        "avatar": "/images/3.jpg",
+        "name": "Karl",
+        "surname": "Gonson",
+        "age": "25"
+    },
+    {
+        "id": "4",
+        "avatar": "/images/4.jpg",
+        "name": "Petr",
+        "surname": "Nilson",
+        "age": "58"
+    },
+    {
+        "id": "5",
+        "avatar": "/images/5.jpg",
+        "name": "Simon",
+        "surname": "West",
+        "age": "45"
+    }
+]
